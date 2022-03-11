@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "tsc && tsc -p tsconfig.browser.json",
-    "prepare": "npm run build"
+    "postinstall": "npm run build"
   },
   "dependencies": {
     "@solana/buffer-layout": "^4.0.0",
