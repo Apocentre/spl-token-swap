@@ -1,4 +1,6 @@
 {
+  "name": "@apocentre/spl-token-swap",
+  "version": "0.1.0",
   "browser": "dist.browser/index.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
